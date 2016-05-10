@@ -1,0 +1,6 @@
+f=open("ques.txt","w+")
+f.write("karechora")
+f.close()
+f=open("ques.txt","r+")
+q=f.read()
+print(q)
