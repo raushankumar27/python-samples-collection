@@ -1,3 +1,4 @@
+#tcs ant one can code solution
 f=input()
 f1=open(f,'r')
 t=f1.readline()
